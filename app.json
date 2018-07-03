@@ -2,6 +2,7 @@
   "expo": {
     "name": "Busca CNPJ",
     "slug": "busca-cnpj",
+    "description": "Demonstração de um app simples de consulta de CNPJ na API ReceitaWS feito com React Native e a biblioteca de componentes NativeBase",
     "sdkVersion": "27.0.0",
     "privacy": "public",
     "githubUrl": "https://github.com/mathcale/react-native-buscacnpj"
