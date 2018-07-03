@@ -1,5 +1,9 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "name": "Busca CNPJ",
+    "slug": "busca-cnpj",
+    "sdkVersion": "27.0.0",
+    "privacy": "public",
+    "githubUrl": "https://github.com/mathcale/react-native-buscacnpj"
   }
 }
