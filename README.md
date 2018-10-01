@@ -1,5 +1,5 @@
-# Busca CNPJ com React Native
+# Search by CNPJ on React Native
 
-Demonstração de um app simples de consulta de CNPJ na API [ReceitaWS](https://www.receitaws.com.br/api) feito com React Native (usando o create-react-native-app) e a biblioteca de componentes [NativeBase](https://nativebase.io)
+A simple search by CNPJ demo app that queries the [ReceitaWS](https://www.receitaws.com.br/api) API built with React Native (create-react-native-app) and the [NativeBase](https://nativebase.io) components library.
 
-Veja o app no Expo [clicando aqui](https://expo.io/@mathcale/busca-cnpj)
+You can check out a live example running in Expo [clicking here](https://expo.io/@mathcale/busca-cnpj).
