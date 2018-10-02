@@ -10,4 +10,4 @@ Veja o app no Expo [clicando aqui](https://expo.io/@mathcale/busca-cnpj)
 
 Demonstration of a simple CNPJ search in [ReceitaWS](https://www.receitaws.com.br/api) made with React Native (using the create-react-native-app) and the component lib [NativeBase](https://nativebase.io)
 
-Watch the live demo [click here](https://expo.io/@mathcale/busca-cnpj)
+Watch the live demo [clicking here](https://expo.io/@mathcale/busca-cnpj)
