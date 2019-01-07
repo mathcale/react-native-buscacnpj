@@ -28,6 +28,6 @@
     "react-native-loading-spinner-overlay": "^0.5.2",
     "react-native-text-input-mask": "^0.7.0",
     "react-navigation": "^2.5.5",
-    "merge": ">=2.1.2"
+    "merge": ">1.2.1"
   }
 }
